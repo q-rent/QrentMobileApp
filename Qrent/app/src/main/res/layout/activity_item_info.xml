@@ -96,7 +96,7 @@
                 android:id="@+id/itemDetails"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="*Does not come with memory card. Can record at 4k, 1080P and 720P."
+                android:text="Does not come with memory card. Can record at 4k, 1080P and 720P."
                 android:textColor="#37888e"
                 android:textSize="30sp" />
 
@@ -104,7 +104,7 @@
                 android:id="@+id/owner"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="__BB8__"
+                android:text="Melvin"
                 android:textColor="#c33c54"
                 android:textSize="20sp" />
         </LinearLayout>
