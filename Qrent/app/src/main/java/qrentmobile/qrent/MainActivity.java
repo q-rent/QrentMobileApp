@@ -1,5 +1,6 @@
 package qrentmobile.qrent;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -16,7 +17,8 @@ public class MainActivity extends AppCompatActivity {
         click.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //start new act
+                Intent i =new Intent(MainActivity.this, itemInfo.class);
+                startActivity(i);
             }
         });
     }
