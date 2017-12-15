@@ -11,7 +11,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="73dp"
-        android:background="#394f4d"
+        android:background="#1a9e10"
         android:orientation="horizontal"
         android:id="@+id/searchBar">
 
@@ -97,7 +97,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="Does not come with memory card. Can record at 4k, 1080P and 720P."
-                android:textColor="#37888e"
+                android:textColor="#1a9e10"
                 android:textSize="30sp" />
 
             <TextView
