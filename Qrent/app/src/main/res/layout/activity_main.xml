@@ -11,7 +11,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="73dp"
-        android:background="#394f4d"
+        android:background="#1a9e10"
         android:orientation="horizontal"
         android:id="@+id/searchBar">
 
@@ -45,7 +45,7 @@
         android:layout_height="50dp"
         android:layout_below="@+id/searchBar"
         android:layout_centerHorizontal="true"
-        android:background="#394f4d"
+        android:background="#1a9e10"
         android:orientation="horizontal"
         android:weightSum="1"
         android:id="@+id/linearLayout2">
@@ -137,7 +137,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_weight="1"
                                 android:text="P 750 / day"
-                                android:textColor="#37888e"
+                                android:textColor="#1a9e10"
                                 android:textSize="25sp" />
 
                             <TextView
@@ -146,7 +146,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_weight="1"
                                 android:text="Baguio City"
-                                android:textColor="#37888e"
+                                android:textColor="#1a9e10"
                                 android:textSize="25sp" />
 
                             <TextView
@@ -194,7 +194,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_weight="1"
                                 android:text="P 500 / day"
-                                android:textColor="#37888e"
+                                android:textColor="#1a9e10"
                                 android:textSize="25sp" />
 
                             <TextView
@@ -203,7 +203,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_weight="1"
                                 android:text="Baguio City"
-                                android:textColor="#37888e"
+                                android:textColor="#1a9e10"
                                 android:textSize="25sp" />
 
                             <TextView
@@ -251,7 +251,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_weight="1"
                                 android:text="P 600 / day"
-                                android:textColor="#37888e"
+                                android:textColor="#1a9e10"
                                 android:textSize="25sp" />
 
                             <TextView
@@ -260,7 +260,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_weight="1"
                                 android:text="Baguio City"
-                                android:textColor="#37888e"
+                                android:textColor="#1a9e10"
                                 android:textSize="25sp" />
 
                             <TextView
